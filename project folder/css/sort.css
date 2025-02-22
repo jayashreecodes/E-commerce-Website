@@ -1,0 +1,19 @@
+body{
+    background-color:sandybrown;
+}
+#header ul
+{
+    float:right;
+    margin-top:25px;
+}
+#header ul li
+{
+    display:inline;
+    margin-right:25px;
+}
+#header ul li a
+{
+        color:bisque;
+        text-decoration:none;
+        font-size:18px;
+}
